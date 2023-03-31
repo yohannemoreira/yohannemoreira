@@ -1,8 +1,8 @@
 ### Oiee, eu sou a Yoh! 👋
 
-- 😊 Sou estudante de Engenharia de Computação na Universidade Federal do Ceará, tenho 18 anos;
-- 📖 Atualmente no 4° período do curso;
-- 🔍 Bolsita PET (Programa de Educação Tutorial) com pesquisa na área de CNNs.
+- 😊 Sou estudante de Engenharia de Computação na Universidade Federal do Ceará, tenho 19 anos;
+- 📖 Atualmente no 5° período do curso;
+- 🔍 Bolsita PET (Programa de Educação Tutorial).
 
 ##
 
