@@ -2,7 +2,7 @@
 
 - 😊 Sou estudante de Engenharia de Computação na Universidade Federal do Ceará, tenho 19 anos;
 - 📖 Atualmente no 5° período do curso;
-- 🔍 Bolsita PET (Programa de Educação Tutorial).
+- 🔍 Bolsista PET (Programa de Educação Tutorial).
 
 ##
 
