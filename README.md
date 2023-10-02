@@ -5,5 +5,3 @@
 - 🔍 Bolsista PET (Programa de Educação Tutorial).
 - iOS Developer da Apple Developer Academy - IFCE
 ##
-
-  ![Snake animation](https://github.com/yohannemoreira/yohannemoreira/blob/output/github-contribution-grid-snake.svg)
