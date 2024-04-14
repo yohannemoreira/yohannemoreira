@@ -1,7 +1,5 @@
-### Oiee, eu sou a Yoh! 👋
-
-- 😊 Sou estudante de Engenharia de Computação na Universidade Federal do Ceará, tenho 19 anos;
-- 📖 Atualmente no 6° período do curso;
-- 🔍 Bolsista PET (Programa de Educação Tutorial).
-- iOS Developer da Residência Apple Developer Academy - IFCE
+### Hey!! 👋
+- I'm a Computer Engineering student at the Federal University of Ceará. Currently in the 7th period of the course;
+- 🔍 Data Science undergraduate researcher at Insight Lab in the AI4WELLNESS project (in partnership with Samsung);
+- I was an iOS Developer at the Apple Developer Academy Residency - IFCE in 2023.
 ##
