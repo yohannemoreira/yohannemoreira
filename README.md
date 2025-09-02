@@ -16,9 +16,9 @@
 - Tools & Platforms:`JIRA`, `Postman API`, `SonarQube`, `Git`, `GitHub`, `GitLab`
 
 
-## 📈 GitHub Stats
+ <!--  ## 📈 GitHub Stats
 
-![Yohanne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yohannemoreira&show_icons=true&theme=radical)
+![Yohanne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yohannemoreira&show_icons=true&theme=radical)  -->
 
 <!-- ## 📝 Latest Projects
 
