@@ -28,9 +28,9 @@
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [https://www.linkedin.com/in/yohanne-moreira]
+- **LinkedIn:** [Yohanne Moreira](https://www.linkedin.com/in/yohanne-moreira)
 <!-- - **Personal Website:** [YourWebsite.com] -->
-- **Email:** [yoholiveira06@gmail.com]
+- **Email:** [Gmail](yoholiveira06@gmail.com)
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect for collaborations or just to say hi.
 
